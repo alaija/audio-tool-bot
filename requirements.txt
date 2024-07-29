@@ -1,0 +1,5 @@
+llama-index==0.10.37
+llama-index-llms-openai==0.1.27
+python-dotenv==1.0.1
+python-telegram-bot==21.4
+whisperx @ git+https://github.com/m-bain/whisperx.git@58f00339af7dcc9705ef49d97a1f40764b7cf555
